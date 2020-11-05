@@ -1,0 +1,6 @@
+framework module Pods_CompletionBlock_Totorial {
+  umbrella header "Pods-CompletionBlock-Totorial-umbrella.h"
+
+  export *
+  module * { export * }
+}
